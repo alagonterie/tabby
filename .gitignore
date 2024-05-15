@@ -1,0 +1,6 @@
+*.log*
+*.hyper
+venv/
+.idea/
+/dist/
+/src/tabby.egg-info/
